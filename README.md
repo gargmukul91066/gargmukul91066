@@ -15,33 +15,35 @@
 
 </div>
 
----
 
 ## 🧠 About Me
 
-```python
-class MukulGarg:
-    def __init__(self):
-        self.name        = "Mukul Garg"
-        self.education   = "B.Tech CSE @ LNMIIT, Jaipur  (2022 – 2026)"
-        self.role        = "GenAI & ML Engineer | RAG Systems | LLM Applications"
-        self.experience  = [
-            "Data Science Intern  @ Collegedunia   (Jan 2026 – Mar 2026)",
-            "Data Science w/ AI   @ Labmentix      (Jul 2025 – Dec 2025)",
-            "Data Science Intern  @ Celebal Tech   (May 2025 – Jul 2025)",
-        ]
-        self.core        = ["RAG", "LLMs", "NLP", "Deep Learning", "MLOps"]
-        self.stack       = ["Python", "LangChain", "FAISS", "FastAPI", "AWS", "Docker"]
-        self.status      = "🟢 Open to Full-Time Opportunities — GenAI / ML / Data Science"
+| | |
+|---|---|
+| 👤 **Name** | Mukul Garg |
+| 🎓 **Education** | B.Tech CSE @ LNMIIT, Jaipur (2022–2026) |
+| 💼 **Role** | Data Scientist | GenAI · ML  · RAG Systems · LLM Applications |
+| 🏢 **Experience** | 3 Internships — Collegedunia · Labmentix · Celebal Tech |
+| 🌍 **Location** | Bathinda, India |
+| 📫 **Contact** | mukul91066@gmail.com |
 
-    def what_drives_me(self):
-        return (
-            "I believe AI should be practical, not just impressive. "
-            "I build systems that reduce real effort, surface real insights, "
-            "and solve real problems — at scale."
-        )
-```
+<br/>
 
+**🧩 Core Areas**
+
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-6D28D9?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-A78BFA?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-5B21B6?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-4F46E5?style=for-the-badge)
+
+<br/>
+
+> 💡 *I build AI systems that are practical, scalable, and impactful — one RAG pipeline I built reduced a team's manual effort by 80%.*
+
+<br/>
+
+🟢 **Open to full-time roles** in GenAI / ML / Data Science — graduating May 2026.
 
 ---
 ## 🛠️ Tech Stack
@@ -98,27 +100,11 @@ class MukulGarg:
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gargmukul91066&theme=dracula&no-frame=true&no-bg=false&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
-## 🎓 Certifications
 
-| 📜 Certificate | 🏛️ Issuer |
-|:---|:---|
-| Python Data Structures and Algorithms (DSA) | Udemy |
-| MLOps Fundamentals: Building, Deploying & Scaling AI Solutions | Scaler Masterclass |
-| Generative AI Workshop | The LNM Institute of Information Technology |
-
----
 
 ## 📈 Contribution Graph
 
@@ -134,9 +120,9 @@ class MukulGarg:
 
 - 🔭 Final Year B.Tech CSE student @ **LNMIIT, Jaipur** — graduating **2026**
 - 🤖 Specializing in **RAG systems**, **LLM applications** & **GenAI pipelines**
-- 📚 Deepening expertise in **MLOps**, **LLM fine-tuning** & **Vector Databases**
+- 📚 Deepening expertise in **MLOps**, **LLM** & **Vector Databases**
 - 🏅 Competing on **Kaggle** and contributing to open-source AI projects
-- 📫 Reach me at **gargmukul91066@gmail.com** or **+91-8837791066**
+- 📫 Reach me at **mukul91066@gmail.com** or **+91-8837791066**
 - ⚡ Fun fact: I once reduced a team's manual effort by 80% with one RAG pipeline 🎯
 
 ---
