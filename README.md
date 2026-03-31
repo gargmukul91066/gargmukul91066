@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukul-garg-5b533b245/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukul91066@gmail.com)
-[![Phone](https://img.shields.io/badge/+91--8837791066-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918837791066)
 
 <br/>
 
