@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B+I'm+Mukul+Garg;GenAI+%26+ML+Engineer+%7C+RAG+Systems+%7C+LLM+Apps;Building+intelligent+systems+that+scale;3+Internships+%7C+Real-world+AI+%7C+Open+to+FTE+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B+I'm+Mukul+Garg;Data+Scientist+%7C+GenAI+%7C+RAG+Systems+%7C+LLM+Apps;Building+intelligent+systems+that+scale;3+Internships+%7C+Real-world+AI+%7C+Open+to+FTE+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
