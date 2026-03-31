@@ -42,60 +42,8 @@ class MukulGarg:
         )
 ```
 
----
-
-## 💼 Experience
-
-### 🏢 Collegedunia Web Pvt. Ltd — *Data Science Intern* &nbsp;`Jan 2026 – Mar 2026`
-> Gurugram, Haryana
-
-- 🤖 Built an **LLM-based RAG pipeline** processing **5000+ documents** with chunking, embeddings & FAISS — reduced manual data extraction effort by **80%**
-- 🌐 Integrated **SerpAPI, DuckDuckGo & BrightSearch** APIs to dynamically fetch and enrich live admission data from external sources
-- ⚙️ Designed automated extraction workflows to structure key fields: fees, eligibility, seats & admission requirements
-
-### 🏢 Labmentix Edtech Pvt. Ltd — *Data Science with AI Intern* &nbsp;`Jul 2025 – Dec 2025`
-> Remote
-
-- 📊 Built and analyzed ML models on real-world educational datasets using EDA, feature engineering & supervised learning
-- 🧹 Developed data preprocessing and cleaning pipelines improving downstream model performance
-
-### 🏢 Celebal Technologies Pvt. Ltd — *AI Engineer Intern* &nbsp;`May 2025 – Jul 2025`
-> Jaipur, Rajasthan
-
-- 🔧 Developed scalable backend services and **ETL pipelines** using Python, SQL & REST APIs — improved data processing efficiency by **30%**
-- 🚀 Designed and deployed **RESTful APIs** to support analytics workflows and improve data accessibility
 
 ---
-
-## 🚀 Featured Projects
-
-### 🔍 [Information Retrieval using LlamaIndex & Google Gemini](https://github.com/gargmukul91066)
-`RAG` `LlamaIndex` `Google Gemini` `Streamlit` `FAISS`
-
-- Built a **RAG-based document QA system** over **1000+ PDFs** achieving **85% retrieval accuracy**
-- Designed an end-to-end retrieval pipeline integrating **LlamaIndex + Gemini** for context-aware responses
-- Developed an interactive **Streamlit** app with optimized chunk size & embedding strategies to minimize latency
-
----
-
-### 🐧 [Penguin ML API](https://github.com/gargmukul91066)
-`Python` `Random Forest` `FastAPI` `Docker` `AWS ECS`
-
-- Built an end-to-end ML pipeline on the Palmer Penguins dataset — EDA, feature engineering & Random Forest training
-- Deployed a **FastAPI REST API** with an HTML interface for real-time inference and interactive testing
-- Containerized with **Docker** and deployed on **AWS ECS Fargate** via ECR for scalable cloud deployment
-
----
-
-### 🏥 [Federated Unlearning for Medical Imaging](https://github.com/gargmukul91066)
-`Federated Learning` `CNNs` `PyTorch`
-
-- Built a **federated learning framework** enabling multiple decentralized clients to collaboratively train a CNN on medical imaging data — **without sharing raw data**
-- Implemented **FedAvg-based aggregation** with model versioning
-- Designed a **federated unlearning mechanism** to selectively remove a client's contribution from the global model
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🐍 Languages
