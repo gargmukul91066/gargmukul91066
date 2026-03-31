@@ -112,7 +112,7 @@
 
 <br/>
 
----
+--- 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" width="100%"/>
 
