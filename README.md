@@ -86,34 +86,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gargmukul91066&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gargmukul91066&theme=midnight-purple&hide_border=true" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargmukul91066&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" width="48%" />
-
-</div>
-
-
-
----
-
-
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Mukul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gargmukul91066&theme=dracula&hide_border=true&area=true&color=A78BFA&line=7C3AED&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 ## 🎯 Currently
 
