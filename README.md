@@ -21,7 +21,7 @@
 |---|---|
 | 👤 **Name** | Mukul Garg |
 | 🎓 **Education** | B.Tech CSE @ LNMIIT, Jaipur (2022–2026) |
-| 💼 **Role** | Data Scientist | GenAI · ML  · RAG Systems · LLM Applications |
+| 💼 **Role** | Data Scientist |
 | 🏢 **Experience** | 3 Internships — Collegedunia · Labmentix · Celebal Tech |
 | 🌍 **Location** | Bathinda, India |
 | 📫 **Contact** | mukul91066@gmail.com |
